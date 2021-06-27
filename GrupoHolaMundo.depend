@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\maximiliano\desktop\holamundo\grupoholamundo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491400450 source:e:\sebastian\utn\programacion\codigos-1ºcuatri\tpfinal\grupoholamundo\grupoholamundo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624665436 source:e:\sebastian\utn\programacion\codigos-1ºcuatri\tpfinal\grupoholamundo\grupoholamundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
